@@ -11,6 +11,10 @@ https://opensfx.com
 I am not responsible of any damages caused by usage of this plugin!  
 **You have been warned!**  
 
+## Requirements
+You need to have Elite Dangerous: Commander Deluxe Edition or Elite Dangerous with Horizons DLC.  
+Currently tested with fleet carriers update.  
+
 ## Installation
 - Do not click on Download on this page. Download the file from the release tab or use the following link:
   - [latest EliteDangerousTelemetryProvider.zip](https://github.com/ashupp/EliteDangerousTelemetryProvider/releases/latest/download/EliteDangerousTelemetryProvider.zip)  
