@@ -21,3 +21,13 @@ I am not responsible of any damages caused by usage of this plugin!
 - Put contents of folder "provider" into folder "SimFeedbackFolder/provider"  
 - Put contents of folder "img" to folder "SimFeedbackFolder/img"  
 - Put contents of folder "profiles" to folder "SimFeedbackFolder/profiles"  
+
+## Usage information
+- Start Elite Dangerous Launcher before starting SimFeedback  
+- If SimFeedback is started and Elite Dangerous Launcher afterwards - in some configurations the Elite Dangerous Launcher will stop with Unhandled Exception.  
+- You may switch profile to vehicle when land on a surface and use a vehicle.  
+
+## Third Party Contents
+- Contains rewolf-wow64ext: https://github.com/rwfpl/rewolf-wow64ext Licensed as LGPL3  
+- Contains memory offset values identified by Wagnard  
+- Contains Profiles created by DSL71
