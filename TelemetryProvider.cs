@@ -29,7 +29,7 @@ namespace SimFeedback.telemetry
         private bool _adressesLoaded;
 
         #region pointers Flying
-        private ulong baseElemPoint = 0x041B9670;
+        private ulong baseElemPoint = 0x041C22A0;
         private ulong baseDataSize = 0x8;
         private ulong baseElementSize = 0x368;
         private ulong baseElementOffset = 0x4B8;
@@ -50,7 +50,7 @@ namespace SimFeedback.telemetry
         #endregion
 
         #region pointers Driving
-        private ulong baseElemPointSRV = 0x041AFBF8;
+        private ulong baseElemPointSRV = 0x041B8828;
         private ulong baseDataSizeSRV = 0x30;
         private ulong baseElementSizeSRV = 0x268;
         private ulong baseElementOffsetSRV = 0x428;
